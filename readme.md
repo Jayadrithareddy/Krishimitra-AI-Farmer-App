@@ -103,5 +103,5 @@ For any questions or feedback, please reach out to:
 
 ## Repository
 
-Check out the project repository at [GitHub](https://github.com/Pushparaj13811/KrishiMitra).
+Check out the project repository at https://github.com/Jayadrithareddy/Krishimitra-AI-Farmer-App/.
 
