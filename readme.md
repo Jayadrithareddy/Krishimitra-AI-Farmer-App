@@ -98,7 +98,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please reach out to:
 
-- **Hompushparaj Mehta (Pushparaj)**
+
 - Email: settypallijayadrithareddy@gmail.com 
 
 ## Repository
